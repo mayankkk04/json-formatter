@@ -1,4 +1,4 @@
-# JSON Formatter - the original
+# JSON Formatter
 
 Chrome extension that auto-formats JSON when you view it in a browser tab.
 
